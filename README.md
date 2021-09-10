@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="800" height="400" src="https://github.com/Vikas_ML?Vikas_ML/VIKAS YADAV.gif">
+ <img  width="800" height="400" src="https://github.com/Vikas-ML/Vikas-ML/blob/main/VIKAS%20YADAV.gif">
 </p>
 
 
