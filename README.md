@@ -47,10 +47,3 @@
 - 🌱 **Continuous learner**, exploring new tools, frameworks, and practices to enhance DevOps workflows and enable continuous improvement.  
 
 ---
-
-### 📫 &nbsp;How to reach me:  
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/vikas-yadav-devops)  
-[<img src="https://img.shields.io/badge/Portfolio-%23070831.svg?&style=for-the-badge">](https://vikas-ml.github.io/)  
-
----
